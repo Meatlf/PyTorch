@@ -1,3 +1,5 @@
+# PyTorch
+
 ## 文件说明
 
 open_workspace.sh文件用于一键打开学习PyTorch的环境，十分方便，这正是Linux系统强大的地方之一。
@@ -30,5 +32,4 @@ python3 -m pip install torchsummary
 
 [4] [本书开源代码](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
 
-# PyTorch
-# PyTorch
+[5] [PyTorch官方教程中文版](http://pytorch123.com/)
