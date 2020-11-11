@@ -20,6 +20,7 @@ open_workspace.sh文件用于一键打开学习PyTorch的环境，十分方便�
 
 ```shell
 python3 -m pip install torchsummary
+pip install https://github.com/pytorch/text/archive/master.zip
 ```
 
 ## 参考资料
